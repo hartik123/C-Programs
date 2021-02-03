@@ -4,5 +4,5 @@
 void main()
 {
     printf("Hello Friends!!!");
-    printf("we are laerning Github");
+    printf("we are learning Github");
 }
